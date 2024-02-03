@@ -1,6 +1,6 @@
 # milestone1st
 
-A new Flutter project.
+Unified Health Interface [UHI]
 
 ## Getting Started
 
